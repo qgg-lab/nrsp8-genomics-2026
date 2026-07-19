@@ -5,6 +5,8 @@
 #### Instructors
 Hayden Hamsher (hamsh010@umn.edu)
 
+Workshop tarball can be found here [https://s3.msi.umn.edu/hayden/workshop/workshop.tar.gz]
+
 ### Genomic prediction (afternoon session)
 #### Instructors
 Nanye Long (longnany@msu.edu)
